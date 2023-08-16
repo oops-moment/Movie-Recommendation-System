@@ -1,0 +1,19 @@
+There are two main types of recommender systems: content-based and collaborative-based.
+
+In a content-based system, recommendations are made based on the content's attributes. For example, if you're listening to romantic songs, the system recommends more romantic songs based on tags.
+
+Collaborative filtering, on the other hand, involves finding similarities between users. If User A and User B have similar preferences, when User A likes Movie M2, the system recommends Movie M2 to User B.
+
+Hybrid systems combine both content and collaborative filtering methods.
+
+Here's the overview of the project flow:
+
+Data Collection
+Data Preprocessing
+Model Building
+Conversion to Website Format
+Deployment
+
+https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv
+
+
